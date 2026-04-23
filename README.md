@@ -24,13 +24,6 @@ node index.js init
 
 ---
 
-## Global usage (optional)
-
-npm link
-envgen init
-
----
-
 ## Commands
 
 envgen init     → setup full project
@@ -96,7 +89,3 @@ To eliminate manual setup of:
 - docker vs local mismatch
 
 ---
-
-## License
-
-MIT
