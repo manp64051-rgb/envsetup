@@ -1,0 +1,11 @@
+{
+  "name": "envgen",
+  "version": "1.0.0",
+  "bin": {
+    "envgen": "./bin/index.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
